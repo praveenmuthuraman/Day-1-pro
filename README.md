@@ -4,7 +4,7 @@
   
 **TO VIWE ABOUT HTTP1.1 vs HTTP2 TAP THE LINK**
 
-Find The block Link:Link =>https://medium.com/@praveenmuthuraman4756/difference-between-http-2-and-http-1-1-83c995d504141
+Find The block Link:Link=>https://medium.com/@praveenmuthuraman4756/difference-between-http-2-and-http-1-1-83c995d50414
 
 2. **Write a blog about objects and its internal representation in Javascript**
 
